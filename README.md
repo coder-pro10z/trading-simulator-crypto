@@ -128,6 +128,6 @@ self.buy_up_threshold = 0.03         # 3% recovery buy
 ```
 
 
-**Happy Trading! 📈 (Virtually, of course!)**
+**Happy Learning! 📈 (Virtually, of course!)**
 
 _I haven't included actual buy and sell functions so impulse traders don't hop on and start risking their capital. Determined traders can do the hard work themselves and add buy-sell functions; it's not that difficult. Maybe rewrite this in Rust for faster performance._
